@@ -15,20 +15,22 @@ I created a website for my academic updates in neurology and medical school to c
 
 My goals as a Medical student
 ======
-
+Coming soon!
 
 Research Interests
 ------
-
+For the first 2 years of Medical school I worked on the Neuroanatomy of the human brain. Recently, I found out that I have a special interest for AI, ML and GPT applications in Medicine. So, currently I am working on several Machine Learning studies which bring ML and Neurosurgery together.
 
 U.S. experiences
 ------
-
+I worked as a research intern in Barrow Neurological Intitute last summer. During this time I was able to participate in 3 projects (not all of them were in the same Hospital) and 2 of them will be published soon. 
 
 
 Social media
 ------
-
+Instagram: neurologica_
+LinkedIN: Irshad Allahverdiyev
+X: Irshad Allahverdiyev
 
 
 
