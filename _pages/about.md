@@ -23,13 +23,15 @@ For the first 2 years of Medical school I worked on the Neuroanatomy of the huma
 
 U.S. experiences
 ------
-I worked as a research intern in Barrow Neurological Intitute last summer. During this time I was able to participate in 3 projects (not all of them were in the same Hospital) and 2 of them will be published soon. 
+I worked as a research intern in Barrow Neurological Institute last summer. During this time I was able to participate in 3 projects (not all of them were in the same Hospital) and 2 of them will be published soon. 
 
 
 Social media
 ------
 Instagram: neurologica_
+
 LinkedIN: Irshad Allahverdiyev
+
 X: Irshad Allahverdiyev
 
 
