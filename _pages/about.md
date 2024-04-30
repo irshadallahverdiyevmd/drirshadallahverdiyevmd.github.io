@@ -9,33 +9,28 @@ redirect_from:
 
 My name is Irshad Allahverdiyev, a 3rd year Medical student at Istanbul University Faculty of Medicine. I am 19, and my interest are Neurology, Neuroscience, Neurosurgery and Machine Learning applications in Medicine. If you do not see me in the Library, I am most likely playing Chess or Table Tennis. My goal is to become a Neurologist and Chess GM (Grandmaster) simultaneously. Currently my Chess ELO is rated between 1300-1500 according to my Live tournament performance. This is the first version of my website and I will try to code the Publications, CV and add Updates very soon. Enjoy!
 
-A data-driven personal website
+Why did I create this website?
+======
+I created a website for my academic updates in neurology and medical school to centralize my learning journey, share insights with peers, stay organized with coursework, showcase my expertise, build a professional portfolio, and contribute to the medical community by fostering collaboration and knowledge exchange.
+
+My goals as a Medical student
 ======
 
 
-Getting started
-======
-
-
-Site-wide configuration
+Research Interests
 ------
 
 
-Create content & metadata
+U.S. experiences
 ------
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
+Social media
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
+
+
