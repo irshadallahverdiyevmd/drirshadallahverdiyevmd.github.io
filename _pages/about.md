@@ -15,7 +15,7 @@ I created a website for my academic updates in neurology and medical school to c
 
 My goals as a Medical student
 ======
-Coming soon!
+Coming soon with Photos section!!
 
 Research Interests
 ------
