@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Irshad's / Academic Review Homepage"
+title                    : "Irshad's / Personal and Academic Profile"
 title_separator          : "-"
 name                     : &name "Irshad Allahverdiyev"
 description              : &description "personal description"
